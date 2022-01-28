@@ -1,0 +1,71 @@
+.cabecera {
+    background: black;
+    padding-top: 5px;
+    color: whitesmoke;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+body {
+    background: #f1f1f1;
+    margin: 0;
+    padding: 0;
+}
+ul {
+    list-style: none; 
+}
+li {
+    display: inline;
+}
+.boton-menu {
+    display: inline-block;
+    background: black;
+    margin-top: 5px;
+    padding-top: 7px;
+    padding-left: 30px;
+    margin-right: 20px;
+    padding-right: 30px;
+    padding-bottom: 7px;
+    font-size: 12px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: tomato;
+}
+.centrado {
+    text-align: center;
+}
+.informacion {
+    display: inline-block;
+    width: 50%;
+    text-align: justify;
+}
+.lista-normal li {
+    display: block;
+}
+.footer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    background-color: gray;
+}
+.menu-centrado {
+    text-align: center;
+}
+.biografia-kevin {
+    font-family: 'Pacifico', cursive;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.biografia-titulo {
+    font-family: 'Permanent Marker', cursive;
+}
+table, tr, th, td {
+    border: 1px solid #000;
+}
+table {
+    border-collapse: collapse;
+}
